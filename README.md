@@ -1,6 +1,6 @@
 # Este repositório faz parte de um treinamento dos cursos da Alura com o objetivo de aprender a criar páginas com o uso do React
 
-# Este projeto tem como o objetivo o desenvolvimento de uma página web de fotos do espaço sideral
+# Neste projeto desenvolvemos uma página web de fotos do espaço sideral
 
 # Getting Started with Create React App
 
