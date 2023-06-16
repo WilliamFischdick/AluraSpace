@@ -1,3 +1,5 @@
+:construction: Em Desenvolvimento :construction:
+
 # Este repositório faz parte de um treinamento dos cursos da Alura com o objetivo de aprender a criar páginas com o uso do React
 
 # Neste projeto desenvolvemos uma página web de fotos do espaço sideral
